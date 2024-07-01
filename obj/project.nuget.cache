@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ieBJ8JrIeBRPsvyDl3J9smwE4unuPuh0L3w3+EYGoG/mHUHzSqsAjQZqfxNLLheo/vMVao4JS8iHEk0IB6FWmg==",
+  "dgSpecHash": "hS9pjzJsmpxIMtnJhXSu05N6X5rItG7m800bPgir+dI+vQGoIT83yqsl1uQjZq2YGxlKvHsfjr0XJ6qpo7HA4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milan\\Desktop\\FirstWebApp\\FirstWebApp\\FirstWebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pande\\OneDrive\\Desktop\\YT\\.net-core-web-app-Dockerize-form\\FirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pande\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pande\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pande\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\pande\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }
